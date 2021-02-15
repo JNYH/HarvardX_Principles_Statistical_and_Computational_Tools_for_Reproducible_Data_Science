@@ -29,5 +29,8 @@ Chapter 6: Computational Tools for Reproducible Science
 
 Chapter 7: Conclusion to the Course
 
+		Recap on what you have learnt
+
+
 
 ## Personal Notes:
