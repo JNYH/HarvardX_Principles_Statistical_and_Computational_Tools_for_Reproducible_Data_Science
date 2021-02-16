@@ -34,3 +34,6 @@ Chapter 7: Conclusion to the Course
 
 
 ## Personal Notes:
+https://github.com/HarvardX-PH527X/harvardx-final-project-JNYH
+
+
